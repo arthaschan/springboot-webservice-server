@@ -1,4 +1,4 @@
-package com.wyj;
+package com.arthas;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WyjInterfaceServiceApplicationTests {
+public class WebServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
